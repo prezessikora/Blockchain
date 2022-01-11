@@ -1,2 +1,2 @@
 # Blockchain
-Simple Blockchain implementation
+Simple Blockchain implementation with cryptocurrency transactions.
